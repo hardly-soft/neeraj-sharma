@@ -1,4 +1,17 @@
-# Professional History (1995–2009)
+# Neeraj Sharma
+
+Senior Cloud & DevSecOps Engineer | Site Reliability Engineer (SRE)  
+Cloud Security | Observability | AI-Ops | MLOps | Cybersecurity
+
+Location: Milpitas, CA  
+Work Authorization: US Citizen  
+Email: <your email>  
+LinkedIn: https://www.linkedin.com/in/<your-linkedin>  
+GitHub: https://github.com/hardly-soft/neeraj-sharma  
+
+FULL CAREER HISTORY – CLOUD, DEVSECOPS, SRE, AI-OPS, SECURITY
+
+# Early Professional History (1995–2009)
 
 This page documents my early-career experience prior to 2009.
 It complements my LinkedIn profile, which focuses on recent
