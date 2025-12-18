@@ -174,6 +174,19 @@ and IoT environments.
 
 ---
 
+## EDUCATION
+
+Masters of Computer Management (BCM)
+University of Pune (Savitribai Phule Pune University), Pune, India  
+Graduation Year: 1995
+
+Relevant Coursework:  
+Data Structures and Algorithms, Operating Systems, Computer Networks,  
+Database Management Systems, Software Engineering
+
+
+---
+
 ## CERTIFICATIONS
 
 - Credly Badges: https://www.credly.com/users/neeraj_sharma
