@@ -3,32 +3,18 @@
 **Senior Cloud & DevSecOps Engineer | Site Reliability Engineer (SRE)**  
 Cloud Security · Observability · AI-Ops · MLOps · Cybersecurity
 
-## Download formats
-
-- **PDF (recommended for recruiters):** [career-history.pdf](./career-history.pdf)
-- **DOCX (editable):** [career-history.docx](./career-history.docx)
-- **Markdown (canonical):** [career-history.md](./career-history.md)
-
----
-
 Location: Milpitas, CA  
 Work Authorization: US Citizen  
 Email:  
 LinkedIn: https://www.linkedin.com/in/  
 GitHub: https://github.com/hardly-soft/neeraj-sharma
 
-## SUMMARY
+## PROFESSIONAL SUMMARY
 
 Senior Cloud, DevSecOps, and Site Reliability Engineer with 20+ years of experience designing, securing, and operating enterprise-scale distributed systems.
 ### Digital Badges + Certifications
 
-- Credly Badges: https://www.credly.com/users/neeraj_sharma
-- Linux Foundation 
-  - [LFS147x: Introduction to AI/ML Toolkits with Kubeflow](https://courses.edx.org/certificates/ba3787da5b414a11986daaf945af7468?_gl=1*rky63k*_gcl_au*MTI5Mjg0MzA0OS4xNzY2MDMxNTE5*_ga*MTE4ODM1Njg2MC4xNzY2MDMxNTEx*_ga_D3KS4KMDT0*czE3NjYwMzE1MTkkbzEkZzEkdDE3NjYwMzE1NjQkajU5JGwwJGgw)
-
----
-
-CORE TECHNICAL COMPETENCIES
+CORE SKILLS
 
 Cloud Platforms:
 IBM Cloud, Google Cloud Platform (GCP), Oracle Cloud Infrastructure (OCI)
@@ -51,7 +37,7 @@ Python, Bash, Go
 
 ---
 
-## Professional Development
+## PROFESSIONAL DEVELOPMENT
 
 ### University of Texas at Austin — McCombs School of Business  
 **Applied AI & Data Science for Systems and Platform Decisioning**
@@ -66,7 +52,7 @@ and IoT environments.
 
 ---
 
-## Professional Experience
+## WORK EXPERIENCE
 
 ### IBM — Senior Backend Engineer  
 **Apr 2021 – Apr 2025**
@@ -187,6 +173,15 @@ and IoT environments.
 - Designed and delivered enterprise database architectures for industrial clients.
 
 ---
+
+## CERTIFICATIONS
+
+- Credly Badges: https://www.credly.com/users/neeraj_sharma
+- Linux Foundation 
+  - [LFS147x: Introduction to AI/ML Toolkits with Kubeflow](https://courses.edx.org/certificates/ba3787da5b414a11986daaf945af7468?_gl=1*rky63k*_gcl_au*MTI5Mjg0MzA0OS4xNzY2MDMxNTE5*_ga*MTE4ODM1Njg2MC4xNzY2MDMxNTEx*_ga_D3KS4KMDT0*czE3NjYwMzE1MTkkbzEkZzEkdDE3NjYwMzE1NjQkajU5JGwwJGgw)
+
+---
+
 
 ## Notes
 
