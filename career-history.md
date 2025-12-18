@@ -1,4 +1,14 @@
-# Neeraj Sharma 
+# Neeraj Sharma - Complete Resume
+
+## Download formats
+
+- **PDF (recommended for recruiters):** [career-history.pdf](./career-history.pdf)
+- **DOCX (editable):** [career-history.docx](./career-history.docx)
+- **Markdown (canonical):** [career-history.md](./career-history.md)
+
+---
+
+# Neeraj Sharma
 
 Senior Cloud & DevSecOps Engineer | Site Reliability Engineer (SRE)  
 Cloud Security | Observability | AI-Ops | MLOps | Cybersecurity
