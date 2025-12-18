@@ -1,14 +1,20 @@
 # Neeraj Sharma
 
-Staff / Principal Platform & Cloud Architect | Hybrid Cloud, DevSecOps & Security Platforms (SIEM/SOAR) | IoT (Smart Grid), Kubeflow & Data-Driven Systems | Applied AI (UT Austin)
+Senior Cloud & DevSecOps Engineer | Site Reliability Engineer (SRE)  
+AI-Ops | Cloud Security | Observability | Cybersecurity
 
 Location: Milpitas, CA  
 Work Authorization: US Citizen  
-Email: mail4neeraj@gmail.com
-<br>LinkedIn: https://www.linkedin.com/in/neeraj 
-<br>GitHub: https://github.com/hardly-soft/neeraj-sharma  
+Email: <your email>  
+LinkedIn: https://www.linkedin.com/in/<your-linkedin>  
+GitHub: https://github.com/hardly-soft/neeraj-sharma
 
-Core Skills: Cloud Security, DevSecOps, Kubernetes, Kubeflow, SRE, SIEM/SOAR, Observability, AI for Security
+SUMMARY:
+Staff / Principal–level platform, cloud, and systems engineer with **25+ years of experience**
+building and operating cloud platforms, large-scale backend systems, and IoT infrastructures.
+Career emphasis includes **automation, reliability, data-driven operations, security platforms,
+and system integration at scale**.
+
   
 ---
 ### Digital Badges + Certifications
@@ -19,25 +25,16 @@ Core Skills: Cloud Security, DevSecOps, Kubernetes, Kubeflow, SRE, SIEM/SOAR, Ob
 
 ---
 
-## Summary
+## CORE SKILLS
 
-Staff / Principal–level platform, cloud, and systems engineer with **25+ years of experience**
-building and operating cloud platforms, large-scale backend systems, and IoT infrastructures.
-Career emphasis includes **automation, reliability, data-driven operations, security platforms,
-and system integration at scale**.
-
----
-
-## Core Skills
-
-Cloud Platforms: IBM Cloud, GCP, Oracle Cloud
-DevSecOps: CI/CD, GitOps, Kubeflow, Ansible, Kubernetes Security  
-Security: SIEM, SOAR, Threat Modeling, Zero Trust, IAM, Vulnerability Management  
-Observability: Monitoring, Logging, Tracing, SRE, Incident Response  
-AI / ML: AI-Ops, GenAI, Security Analytics, NLP for Cybersecurity  
+Cloud Platforms: AWS, Azure, GCP, IBM Cloud, Oracle Cloud (OCI)  
+DevSecOps: CI/CD, GitOps, Kubeflow, Ansible, Kubernetes, Helm
+Security: SIEM (Exabeam, QRadar), SOAR, IAM, Zero Trust, Vulnerability Management  
+Observability: Instana, Prometheus, Grafana, OpenTelemetry, Logging, Tracing, SRE  
+AI / ML: AI-Ops, GenAI, Security Analytics, NLP for Cybersecurity, Threat Intelligence  
 Programming: Python, Bash, Go  
-Compliance: SOC2, FedRAMP, GDPR
-
+Containers: Docker, Kubernetes Security, Network Policies  
+Compliance: SOC2, FedRAMP, GDPR, Enterprise Security Controls
 
 ---
 
