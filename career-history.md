@@ -1,4 +1,7 @@
-# Neeraj Sharma - Complete Resume
+# Neeraj Sharma
+
+Senior Cloud & DevSecOps Engineer | Site Reliability Engineer (SRE)  
+Cloud Security | Observability | AI-Ops | MLOps | Cybersecurity
 
 ## Download formats
 
@@ -8,10 +11,6 @@
 
 ---
 
-# Neeraj Sharma
-
-Senior Cloud & DevSecOps Engineer | Site Reliability Engineer (SRE)  
-Cloud Security | Observability | AI-Ops | MLOps | Cybersecurity
 
 Location: Milpitas, CA  
 Work Authorization: US Citizen  
