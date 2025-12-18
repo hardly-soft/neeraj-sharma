@@ -6,10 +6,9 @@ Cloud Security · Observability · AI-Ops · MLOps · Cybersecurity
 Location: Milpitas, CA
 Work Authorization: US Citizen
 Email: mail4neeraj@gmail.com
-Phone: 1-669-241-2101
-LinkedIn: https://www.linkedin.com/in/neeraj
+Phone: +1-669-241-2101
+LinkedIn: https://www.linkedin.com/in/neeraj-sharma
 GitHub: https://github.com/hardly-soft/neeraj-sharma
-
 
 ## PROFESSIONAL SUMMARY
 
