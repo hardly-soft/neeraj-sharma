@@ -1,190 +1,205 @@
-# Neeraj Sharma
-**Senior Cloud & DevSecOps Engineer | Site Reliability Engineer (SRE)**
+NEERAJ SHARMA
 
-Milpitas, CA  
-US Citizen  
-Email: mail4neeraj@gmail.com  
-Phone: +1-669-241-2101  
-LinkedIn: https://www.linkedin.com/in/neeraj  
-GitHub: https://github.com/hardly-soft/neeraj-sharma  
+Senior Cloud and DevSecOps Engineer | Site Reliability Engineer (SRE)
+Cloud Security, Observability, AIOps, MLOps, Cybersecurity
 
----
+Location: Milpitas, CA
+Work Authorization: US Citizen
+Email: mail4neeraj@gmail.com
+Phone: +1-660-241-2101
+LinkedIn Profile: https://www.linkedin.com/in/neeraj
+GitHub Portfolio: https://github.com/hardly-soft/neeraj-sharma
 
-## Professional Summary
-Senior Cloud, DevSecOps, and Site Reliability Engineer with 20+ years of experience designing, securing, and operating enterprise-scale distributed systems. Proven expertise across IBM Cloud, Google Cloud Platform (GCP), and Oracle Cloud Infrastructure (OCI). Strong background in Kubernetes, security analytics, observability, AI-driven operations, automation, and reliability engineering supporting mission-critical enterprise platforms.
 
----
+PROFESSIONAL SUMMARY
 
-## Core Skills
+Senior Cloud, DevSecOps, and Site Reliability Engineer with over 20 years of experience
+designing, securing, and operating enterprise-scale distributed systems across cloud,
+security, observability, and data-driven platforms.
 
-**Cloud Platforms**
+
+CORE SKILLS
+
+Cloud Platforms:
 - IBM Cloud
 - Google Cloud Platform (GCP)
 - Oracle Cloud Infrastructure (OCI)
 
-**Containers & Orchestration**
+Containers and Orchestration:
 - Kubernetes
 - Kubeflow
 - Helm
 
-**Site Reliability Engineering / MLOps**
-- Incident Response
-- On-Call Operations
-- Reliability Engineering
-- Capacity Planning
-- Model Training Pipelines
-- Model Serving
+CI/CD and Infrastructure as Code:
+- CI/CD Pipelines
+- GitHub Actions
+- Jenkins
+- Infrastructure as Code (IaC)
+- Ansible Automation
 
-**Security & Compliance**
-- SIEM: Exabeam, QRadar
+Security and Compliance:
+- SIEM (Exabeam, QRadar)
 - SOAR
 - Identity and Access Management (IAM)
 - Zero Trust Architecture
 - Threat Modeling
 - Vulnerability Management
 
-**Observability & AI-Ops**
-- Instana
+Observability and AIOps:
 - Prometheus
 - Grafana
 - OpenTelemetry
 - Log Analytics
 - Root Cause Analysis (RCA)
 
-**Programming & Automation**
-- Python
-- Bash
-- Go
-- CI/CD Automation
-- Infrastructure and Platform Testing
 
----
+PROFESSIONAL DEVELOPMENT
 
-## Professional Development
+Post Graduate Certification in Data Science and AI for Business Applications
+University of Texas at Austin, McCombs School of Business
 
-**University of Texas at Austin — McCombs School of Business**  
-Applied AI & Data Science for Systems and Platform Decisioning
+Focus Areas:
+- Applied AI and Data Science for Systems and Platform Decisioning
+- Deep Learning for Enterprise Applications
+- Generative AI for Business Applications (Planned, 2026)
 
-- Completed: Post Graduate Certification in Data Science & AI for Business Applications (PGDSBA)
-- In Progress: AI with Deep Learning (AIDL)
-- Planned: Generative AI for Business Applications (Expected 2026)
+This program was completed to strengthen AI-informed system design and
+operational decision-making across cloud, security, and IoT environments.
 
----
 
-## Professional Experience
+WORK EXPERIENCE
 
-### IBM — Senior Backend Engineer  
-**Apr 2021 – Apr 2025**
+IBM
+Senior Backend Engineer (DevSecOps and Site Reliability Engineering)
+April 2021 – April 2025
 
-- Designed and maintained scalable backend services for cloud-native platforms supporting telemetry-driven monitoring and automated remediation.
-- Implemented observability instrumentation using OpenTelemetry and Instana to improve operational visibility and root cause analysis.
-- Built and maintained 200+ Python and Ansible automation tests, improving release velocity and platform reliability.
-- Collaborated with SRE, security, and platform teams to integrate monitoring signals into incident response and on-call workflows.
-- Supported enterprise-grade CI/CD pipelines and reliability engineering practices for distributed systems.
+- Owned scalable backend services for cloud-native platforms supporting telemetry-driven
+  monitoring and automated remediation.
+- Improved system quality through CI/CD pipelines, Kubernetes-based deployments,
+  and observability using Prometheus and Grafana.
+- Built and maintained over 200 Python and Ansible automation tests, accelerating
+  releases and improving platform reliability.
 
----
 
-### Exabeam — Senior Software Quality Engineer  
-**Aug 2019 – Mar 2021**
+Exabeam
+Senior Software Quality Engineer
+August 2019 – March 2021
 
-- Led quality engineering for large-scale security analytics and SIEM platforms processing high-volume event and behavioral data.
-- Developed automation frameworks to validate ingestion pipelines, scoring logic, detection workflows, and analytics outputs.
-- Partnered with engineering teams to improve data quality, test coverage, and release confidence.
-- Integrated automated testing into CI pipelines to support continuous delivery of security analytics services.
+- Led quality engineering for security analytics platforms processing high-volume
+  event and behavioral data.
+- Developed automation frameworks validating data pipelines, scoring logic,
+  and detection workflows at scale.
+- Strengthened release confidence for data-driven threat detection systems.
 
----
 
-### Vusion — Senior Software Engineer / Quality Engineer  
-**2016 – 2019**
+Oracle
+Principal Software Engineer
+May 2018 – July 2019
 
-- Contributed to enterprise software platforms with focus on backend services, automation, and quality engineering.
-- Supported distributed systems testing, integration validation, and release readiness.
-- Collaborated with cross-functional teams on system stability and delivery improvements.
+- Directed architecture and deployment of multi-tenant leaf-spine networks
+  across more than 20 global data centers.
+- Delivered Python and Java microservices supporting policy-driven orchestration
+  and automated provisioning.
+- Enabled faster regional expansion through scalable, software-defined infrastructure.
 
----
 
-### Hewlett-Packard (HP) — Software Engineer  
-**2012 – 2016**
+Light
+Senior Software QA Engineer
+June 2017 – April 2018
 
-- Worked on enterprise-grade software systems and platforms.
-- Contributed to backend development, system integration, and quality assurance initiatives.
-- Supported large-scale deployments and production issue analysis.
+- Built automated test frameworks for embedded camera firmware and Android-based
+  imaging platforms.
+- Executed system integration testing across hardware, firmware, and mobile software.
+- Improved performance and stability using Android, ADB, and Python automation.
 
----
 
-### Motorola — Software Engineer  
-**2009 – 2012**
+Silver Spring Networks
+Senior Software Development Engineer in Test (SDET)
+November 2012 – May 2017
 
-- Developed and tested software for enterprise and telecommunications-related systems.
-- Supported system integration, defect analysis, and release cycles.
-- Collaborated with global engineering teams on product delivery.
+- Validated large-scale IoT platforms supporting smart grid deployments
+  across millions of field devices.
+- Built CI-driven automation for firmware, APIs, and cloud services.
+- Supported production rollout of over 23 million smart devices with high availability
+  and data integrity requirements.
 
----
 
-### Brocade — Software Engineer  
-**2006 – 2009**
+Redwood Systems
+Senior Software Development Engineer in Test (SDET)
+January 2011 – October 2012
 
-- Worked on networking and infrastructure software components.
-- Supported testing, automation, and quality processes for enterprise products.
-- Participated in system validation and production readiness activities.
+- Led system integration and automation for sensor-driven smart lighting platforms
+  used in green building environments.
 
----
 
-### Xoriant — Software Engineer  
-**2004 – 2006**
+CDNetworks
+Senior QA Manager
+August 2009 – December 2010
 
-- Delivered software solutions for enterprise clients.
-- Worked on backend components, automation, and testing.
-- Supported customer-facing delivery and maintenance activities.
+- Owned global QA strategy for distributed CDN infrastructure, validating performance,
+  reliability, and data flow at scale.
 
----
 
-### DSS Infotech — Software Engineer  
-**2001 – 2004**
+Vusion
+Senior QA Manager
+April 2007 – July 2009
 
-- Built and tested software applications across multiple client projects.
-- Gained foundational experience in software development life cycle, testing, and automation.
-- Supported application maintenance and enhancements.
+- Led QA delivery for cloud-hosted high-definition video streaming platforms
+  serving enterprise media customers.
 
----
 
-### Early Career Roles — Software Engineer  
-**1999 – 2001**
+HP
+Senior Software Engineer
+August 2006 – March 2007
 
-- Entry-level software engineering roles focused on programming fundamentals, testing, and system support.
-- Built strong foundations in enterprise software development and quality engineering.
+- Validated enterprise application lifecycle management platforms supporting
+  standards-compliant database migration and archival workflows.
 
----
 
-## Projects & Technical Work
+Motorola PCS
+Senior Software Engineer
+May 2003 – July 2006
 
-- Designed Kubernetes-based automation and validation frameworks for cloud-native and security analytics platforms.
-- Built Python-based tooling for telemetry validation, log analytics, and reliability testing.
-- Contributed to observability initiatives integrating metrics, traces, and logs for faster incident detection and resolution.
+- Delivered end-to-end testing and automation for J2ME and Linux mobile platforms
+  using Six Sigma quality practices.
 
----
 
-## Certifications & Training
+Brocade Communications Systems
+Senior QA Lead
+April 2002 – April 2003
 
-- Post Graduate Certification in Data Science & AI for Business Applications — UT Austin
-- Professional training in Kubernetes, cloud platforms, observability, and security engineering
-- Ongoing learning in Generative AI, AI-Ops, and platform security
+- Led functional and performance testing for storage area network
+  and enterprise networking platforms.
 
----
 
-## Tools & Technologies
+Xoriant
+Senior Technical Consultant
+June 1998 – March 2002
 
-- Kubernetes, Kubeflow, Helm
-- IBM Cloud, GCP, OCI
-- Instana, Prometheus, Grafana
-- Exabeam, QRadar
-- Python, Bash, Go
-- CI/CD Pipelines
-- Git, GitHub Actions
+- Delivered software development, quality assurance, and optical networking
+  (DWDM) solutions for enterprise clients.
 
----
 
-## Additional Information
+DSS Infotech Pvt. Ltd.
+Senior IT Analyst
+February 1995 – May 1998
 
-- Eligible for US government and enterprise roles (US Citizen)
-- Open to Senior DevSecOps Engineer, Site Reliability Engineer (SRE), Cloud Security Engineer, and AI-Ops focused roles
+- Designed and delivered enterprise database architectures for industrial clients.
+
+
+EDUCATION
+
+Master of Computer Management (MCM)
+Savitribai Phule Pune University, Pune, India
+1993 – 1995
+
+
+CERTIFICATIONS
+
+Certification: LFS147x – Introduction to AI and Machine Learning Toolkits with Kubeflow
+Issuing Organization: Linux Foundation
+Credential Platform: edX
+Credential URL: https://courses.edx.org/certificates/ba3787da5b414a11986daaf945af7468
+
+Credential Repository: Credly
+Profile URL: https://www.credly.com/users/neeraj_sharma
