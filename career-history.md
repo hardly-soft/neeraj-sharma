@@ -1,13 +1,15 @@
 # Neeraj Sharma
 
 Senior Cloud & DevSecOps Engineer | Site Reliability Engineer (SRE)  
-AI-Ops | Cloud Security | Observability | Cybersecurity
+Cloud Security | Observability | AI-Ops | Cybersecurity
 
 Location: Milpitas, CA  
 Work Authorization: US Citizen  
-Email: <your email>  
-LinkedIn: https://www.linkedin.com/in/<your-linkedin>  
-GitHub: https://github.com/hardly-soft/neeraj-sharma
+Email: mail4neeraj@gmail.com  
+LinkedIn: https://www.linkedin.com/in/neeraj
+GitHub: https://github.com/hardly-soft/neeraj-sharma  
+
+FULL CAREER HISTORY – CLOUD, DEVSECOPS, SRE, SECURITY, AI-OPS
 
 SUMMARY:
 Staff / Principal–level platform, cloud, and systems engineer with **25+ years of experience**
