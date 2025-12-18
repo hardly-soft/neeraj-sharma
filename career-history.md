@@ -1,22 +1,23 @@
 # Neeraj Sharma
 
 Senior Cloud & DevSecOps Engineer | Site Reliability Engineer (SRE)  
-Cloud Security | Observability | AI-Ops | Cybersecurity
+Cloud Security | Observability | AI-Ops | MLOps | Cybersecurity
 
 Location: Milpitas, CA  
 Work Authorization: US Citizen  
-Email: mail4neeraj@gmail.com  
-LinkedIn: https://www.linkedin.com/in/neeraj  
+Email: <your email>  
+LinkedIn: https://www.linkedin.com/in/<your-linkedin>  
 GitHub: https://github.com/hardly-soft/neeraj-sharma  
 
-FULL CAREER HISTORY – CLOUD, DEVSECOPS, SRE, SECURITY, AI-OPS
+FULL CAREER HISTORY – CLOUD, DEVSECOPS, SRE, AI-OPS, SECURITY
 
-SUMMARY:
-Staff / Principal–level platform, cloud, and systems engineer with **25+ years of experience**
-building and operating cloud platforms, large-scale backend systems, and IoT infrastructures.
-Career emphasis includes **automation, reliability, data-driven operations, security platforms,
-and system integration at scale**.
+SUMMARY
 
+Senior Cloud, DevSecOps, and Site Reliability Engineer with 20+ years of experience
+designing, securing, and operating enterprise-scale distributed systems.
+Proven expertise across IBM Cloud, Google Cloud Platform (GCP),
+and Oracle Cloud Infrastructure (OCI), with deep hands-on leadership in
+Kubernetes, Kubeflow, SIEM, Observability, AI-Ops, and production SRE operations.
   
 ---
 ### Digital Badges + Certifications
@@ -27,16 +28,26 @@ and system integration at scale**.
 
 ---
 
-## CORE SKILLS
+CORE TECHNICAL COMPETENCIES
 
-Cloud Platforms: AWS, Azure, GCP, IBM Cloud, Oracle Cloud (OCI)  
-DevSecOps: CI/CD, GitOps, Kubeflow, Ansible, Kubernetes, Helm
-Security: SIEM (Exabeam, QRadar), SOAR, IAM, Zero Trust, Vulnerability Management  
-Observability: Instana, Prometheus, Grafana, OpenTelemetry, Logging, Tracing, SRE  
-AI / ML: AI-Ops, GenAI, Security Analytics, NLP for Cybersecurity, Threat Intelligence  
-Programming: Python, Bash, Go  
-Containers: Docker, Kubernetes Security, Network Policies  
-Compliance: SOC2, FedRAMP, GDPR, Enterprise Security Controls
+Cloud Platforms:
+IBM Cloud, Google Cloud Platform (GCP), Oracle Cloud Infrastructure (OCI)
+
+Containers, MLOps & SRE:
+Kubernetes, Kubeflow, Helm,
+Model Training Pipelines, Model Serving,
+Incident Response, On-Call Operations, Reliability Engineering
+
+Security:
+SIEM (Exabeam, QRadar), SOAR, IAM, Zero Trust,
+Threat Modeling, Vulnerability Management
+
+Observability & AI-Ops:
+Instana, Prometheus, Grafana, OpenTelemetry,
+Log Analytics, Root Cause Analysis, AI-Ops
+
+Programming & Automation:
+Python, Bash, Go
 
 ---
 
