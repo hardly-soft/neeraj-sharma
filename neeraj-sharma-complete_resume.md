@@ -5,7 +5,7 @@ Cloud Security · Observability · AI-Ops · MLOps · Cybersecurity
 
 Location: Milpitas, CA  
 Work Authorization: US Citizen  
-Email:  
+Email   : mail4neeraj@gmail.com  
 LinkedIn: https://www.linkedin.com/in/  
 GitHub: https://github.com/hardly-soft/neeraj-sharma
 
