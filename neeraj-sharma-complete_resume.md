@@ -7,7 +7,7 @@ Location: Milpitas, CA
 Work Authorization: US Citizen  
 Email: mail4neeraj@gmail.com  
 Phone: 1-669-241-2101  
-LinkedIn: https://www.linkedin.com/in/  
+LinkedIn: https://www.linkedin.com/in/neeraj  
 GitHub: https://github.com/hardly-soft/neeraj-sharma  
 
 ## PROFESSIONAL SUMMARY
