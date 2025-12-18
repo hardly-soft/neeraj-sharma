@@ -1,13 +1,14 @@
-# Neeraj Sharma / Complete Resume
-## Professional History (1995–2025)
+# Neeraj Sharma
 
-This document represents my **complete professional career history (1995–2025)**.
-It complements my LinkedIn profile, which focuses on recent Staff / Principal–level
-platform, cloud, security, and IoT roles.
+Senior Cloud & DevSecOps Engineer | SRE | AI-Ops | Cybersecurity
 
-For current focus, applied AI work, and portfolio artifacts, please refer to:
-- LinkedIn Profile: https://www.linkedin.com/in/neeraj/
-- GitHub: https://github.com/hardly-soft/neeraj-sharma
+Location: Milpitas, CA  
+Work Authorization: US Citizen  
+Email: <your email>  
+LinkedIn: https://www.linkedin.com/in/<your-id>  
+GitHub: https://github.com/hardly-soft/neeraj-sharma  
+
+Core Skills: Cloud Security, DevSecOps, Kubernetes, Kubeflow, SRE, SIEM/SOAR, Observability, AI for Security
   
 ---
 ### Digital Badges + Certifications
@@ -24,6 +25,19 @@ Staff / Principal–level platform, cloud, and systems engineer with **25+ years
 building and operating cloud platforms, large-scale backend systems, and IoT infrastructures.
 Career emphasis includes **automation, reliability, data-driven operations, security platforms,
 and system integration at scale**.
+
+---
+
+## CORE SKILLS
+
+Cloud Platforms: IBM Cloud, GCP, Oracle Cloud
+DevSecOps: CI/CD, GitOps, Kubeflow, Ansible, Kubernetes Security  
+Security: SIEM, SOAR, Threat Modeling, Zero Trust, IAM, Vulnerability Management  
+Observability: Monitoring, Logging, Tracing, SRE, Incident Response  
+AI / ML: AI-Ops, GenAI, Security Analytics, NLP for Cybersecurity  
+Programming: Python, Bash, Go  
+Compliance: SOC2, FedRAMP, GDPR
+
 
 ---
 
