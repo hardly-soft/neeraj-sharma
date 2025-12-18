@@ -1,12 +1,12 @@
 # Neeraj Sharma
 
-Senior Cloud & DevSecOps Engineer | SRE | AI-Ops | Cybersecurity
+Staff / Principal Platform & Cloud Architect | Hybrid Cloud, DevSecOps & Security Platforms (SIEM/SOAR) | IoT (Smart Grid), Kubeflow & Data-Driven Systems | Applied AI (UT Austin)
 
 Location: Milpitas, CA  
 Work Authorization: US Citizen  
-Email: <your email>  
-LinkedIn: https://www.linkedin.com/in/<your-id>  
-GitHub: https://github.com/hardly-soft/neeraj-sharma  
+Email: mail4neeraj@gmail.com
+<br>LinkedIn: https://www.linkedin.com/in/neeraj 
+<br>GitHub: https://github.com/hardly-soft/neeraj-sharma  
 
 Core Skills: Cloud Security, DevSecOps, Kubernetes, Kubeflow, SRE, SIEM/SOAR, Observability, AI for Security
   
@@ -28,7 +28,7 @@ and system integration at scale**.
 
 ---
 
-## CORE SKILLS
+## Core Skills
 
 Cloud Platforms: IBM Cloud, GCP, Oracle Cloud
 DevSecOps: CI/CD, GitOps, Kubeflow, Ansible, Kubernetes Security  
