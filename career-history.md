@@ -1,14 +1,20 @@
-# Neeraj Sharma / Professional History (1995–2025)
+# Neeraj Sharma / Complete Resume
+## Professional History (1995–2025)
 
 This document represents my **complete professional career history (1995–2025)**.
 It complements my LinkedIn profile, which focuses on recent Staff / Principal–level
 platform, cloud, security, and IoT roles.
 
 For current focus, applied AI work, and portfolio artifacts, please refer to:
-- LinkedIn: https://www.linkedin.com/in/neeraj/
+- LinkedIn Profile: https://www.linkedin.com/in/neeraj/
 - GitHub: https://github.com/hardly-soft/neeraj-sharma
-- Credly: https://www.credly.com/users/neeraj_sharma
-- Linux Foundation: 
+  
+---
+### Digital Badges + Certifications
+
+- Credly Badges: https://www.credly.com/users/neeraj_sharma
+- Linux Foundation 
+  - [LFS147x: Introduction to AI/ML Toolkits with Kubeflow](https://courses.edx.org/certificates/ba3787da5b414a11986daaf945af7468?_gl=1*rky63k*_gcl_au*MTI5Mjg0MzA0OS4xNzY2MDMxNTE5*_ga*MTE4ODM1Njg2MC4xNzY2MDMxNTEx*_ga_D3KS4KMDT0*czE3NjYwMzE1MTkkbzEkZzEkdDE3NjYwMzE1NjQkajU5JGwwJGgw)
 
 ---
 
