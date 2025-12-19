@@ -63,13 +63,14 @@ PROFESSIONAL DEVELOPMENT
 Post Graduate Certification in Data Science and AI for Business Applications
 University of Texas at Austin, McCombs School of Business
 
-Focus Areas:
-- Applied AI and Data Science for Systems and Platform Decisioning
-- Deep Learning for Enterprise Applications
-- Generative AI for Business Applications (Planned, 2026)
-
 This program was completed to strengthen AI-informed system design and
 operational decision-making across cloud, security, and IoT environments.
+
+Focus Areas:
+- Applied AI and Data Science for Systems and Platform Decisioning
+  - Post Graduate Program in Data Science and Business Analytics (Completed) 
+  - Post Graduate Certificate in Artificial Intelligence and Deep Learning (In Progress)
+  - Generative AI for Business Applications (Planned, 2026)
 
 
 WORK EXPERIENCE
