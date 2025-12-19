@@ -209,5 +209,4 @@ Issuing Organization: Linux Foundation
 Credential Platform: edX
 Credential URL: https://courses.edx.org/certificates/ba3787da5b414a11986daaf945af7468
 
-Credential Repository: Credly
-Profile URL: https://www.credly.com/users/neeraj_sharma
+Credly: https://www.credly.com/users/neeraj_sharma
