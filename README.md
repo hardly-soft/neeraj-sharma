@@ -1,11 +1,5 @@
-### Contact Information
- |       |                                      |  
-|--------|--------------------------------------|
-| Email | mail4neeraj@gmail.com                 |
-| Mobile | 669-241-2101                         |
-| Linkedin | https://www.linkedin.com/in/neeraj |
-
-## Neeraj Sharma — Cloud, Backend, DevSecOps & IoT Engineering | AI & MLOps
+# Neeraj Sharma
+## Cloud, Backend, DevSecOps & IoT Engineering | AI & MLOps
 
 Staff / Principal-level platform engineer and architect with 20+ years of experience building and operating secure, large-scale cloud, distributed, and IoT platforms across enterprise and industrial environments. I focus on designing systems where architecture, reliability, security, and data-informed (AI-assisted) decision-making intersect to deliver durable, production-grade outcomes.
 
@@ -83,6 +77,13 @@ Staff / Principal-level platform engineer and architect with 20+ years of experi
 
 [neeraj_sharma_resume_1995_2009.pdf](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj_sharma_resume_1995_2009.pdf)
 </details> 
+
+### Contact Information
+ |       |                                      |  
+|--------|--------------------------------------|
+| Email | mail4neeraj@gmail.com                 |
+| Mobile | 669-241-2101                         |
+| Linkedin | https://www.linkedin.com/in/neeraj |
 
 
 
