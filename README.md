@@ -7,41 +7,17 @@ Neeraj Sharma — Cloud, Backend, DevSecOps & IoT Engineering | AI & MLOps
 | Mobile | 669-241-2101                         |
 | Linkedin | https://www.linkedin.com/in/neeraj |
 
-
-<details><summary>Neeraj Sharma - Complete Resume</summary>
-
-[neeraj-sharma-resume.md](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj-sharma-resume.md)
-
-[neeraj-sharma-resume.pdf](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj-sharma-resume.pdf)  
-</details> 
-
-<details><summary>Earlier Career (Engineering & QA Leadership)</summary>
-
-[neeraj_sharma_resume_1995_2009.md](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj_sharma_resume_1995_2009.md)
-
-[neeraj_sharma_resume_1995_2009.pdf](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj_sharma_resume_1995_2009.pdf)
-</details> 
-
-<details><summary>Certifications</summary>
-
-[LFS147x: Introduction to AI/ML Toolkits with Kubeflow](https://courses.edx.org/certificates/ba3787da5b414a11986daaf945af7468)
-
-</details>
-
-<details><summary>Credly Badges</summary>
-https://www.credly.com/badges/cb3dfcc1-e48f-4afc-9fd8-082e7e831939
-
-## Credly Badges
+#### Credly Badges
 
 <p align="left">
   <a href="https://www.credly.com/badges/cb3dfcc1-e48f-4afc-9fd8-082e7e831939" title="Credly Badge">
     <img src="https://images.credly.com/size/680x680/images/a32fda3d-7666-430e-8d17-b7abc4cc4207/IBM-Generative-and-Agentic-AI-Foundation.png" alt="Credly Badge" width="72" />
   </a>
- <br>
+ 
   <a href="https://www.credly.com/badges/5f0bc22e-b102-4449-a407-91af9744d352" title="Credly Badge">
     <img src="https://images.credly.com/size/680x680/images/47a15e48-3fd7-4c36-8f7e-639a65945ad8/image.png" alt="Credly Badge" width="72" />
   </a>
- <hr>
+ 
   <a href="https://www.credly.com/badges/a79bd7a5-2827-4ce3-a3ae-c2abaaf407a6" title="Credly Badge">
     <img src="https://images.credly.com/size/680x680/images/817e6df0-5259-46a8-a739-fade09ea0a1d/Trustworthy-AI-and-AI-Ethics-Foundations.png" alt="Credly Badge" width="72" />
   </a>
@@ -83,7 +59,33 @@ https://www.credly.com/badges/cb3dfcc1-e48f-4afc-9fd8-082e7e831939
 </p>
 
 
-</details>
+<details><summary>Neeraj Sharma - Complete Resume</summary>
+
+[neeraj-sharma-resume.md](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj-sharma-resume.md)
+
+[neeraj-sharma-resume.pdf](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj-sharma-resume.pdf)  
+</details> 
+
+<details><summary>Earlier Career (Engineering & QA Leadership)</summary>
+
+[neeraj_sharma_resume_1995_2009.md](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj_sharma_resume_1995_2009.md)
+
+[neeraj_sharma_resume_1995_2009.pdf](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj_sharma_resume_1995_2009.pdf)
+</details> 
+
+#### Certifications
+
+[LFS147x: Introduction to AI/ML Toolkits with Kubeflow](https://courses.edx.org/certificates/ba3787da5b414a11986daaf945af7468)
+
+<p align="left">
+  <a href="https://courses.edx.org/certificates/ba3787da5b414a11986daaf945af7468">
+    <img src="https://images.credly.com/size/680x680/images/a32fda3d-7666-430e-8d17-b7abc4cc4207/IBM-Generative-and-Agentic-AI-Foundation.png" alt="Credly Badge" width="72" />
+  </a>
+</p>
+
+
+
+
 
 
 
