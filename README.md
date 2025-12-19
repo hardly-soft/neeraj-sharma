@@ -12,7 +12,7 @@ Neeraj Sharma — Cloud, Backend, DevSecOps & IoT Engineering | AI & MLOps
 
 [neeraj-sharma-resume.md](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj-sharma-resume.md)
 
-[neeraj-sharma-resume.pdf](neeraj-sharma-resume.pdf)  
+[neeraj-sharma-resume.pdf](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj-sharma-resume.pdf)  
 </details> 
 
 <details><summary>Earlier Career (Engineering & QA Leadership)</summary>
