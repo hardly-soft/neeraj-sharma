@@ -7,6 +7,8 @@
 
 ## Neeraj Sharma — Cloud, Backend, DevSecOps & IoT Engineering | AI & MLOps
 
+Staff / Principal-level platform engineer and architect with 20+ years of experience building and operating secure, large-scale cloud, distributed, and IoT platforms across enterprise and industrial environments. I focus on designing systems where architecture, reliability, security, and data-informed (AI-assisted) decision-making intersect to deliver durable, production-grade outcomes.
+
 #### Credly Badges
 <hr>
 <p align="left">
