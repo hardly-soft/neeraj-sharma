@@ -3,6 +3,43 @@
 
 Staff / Principal-level platform engineer and architect with 20+ years of experience building and operating secure, large-scale cloud, distributed, and IoT platforms across enterprise and industrial environments. I focus on designing systems where architecture, reliability, security, and data-informed (AI-assisted) decision-making intersect to deliver durable, production-grade outcomes.
 
+A consolidated reference for recruiters and hiring managers, spanning experience, technical focus, and applied work beyond a résumé.
+
+
+
+#### Agentic AI
+
+<p align="left">
+  <a href="[https://courses.edx.org/certificates/ba3787da5b414a11986daaf945af7468](https://github.com/hardly-soft/agentic_ai)" title="Agentic AI Langchain">
+    <img src="https://github.com/hardly-soft/neeraj-sharma/blob/main/NS_agentic_ai.png" width="72" />
+  </a>
+ Agentic AI: Using Python Langchain, Langgraph, Langsmith
+</p>
+
+#### Certifications
+<hr>
+<p align="left">
+  <a href="https://courses.edx.org/certificates/ba3787da5b414a11986daaf945af7468" title="Linux Foundation Badge">
+    <img src="https://github.com/hardly-soft/neeraj-sharma/blob/main/ns_kf.png" alt="LFS147x" width="72" />
+  </a>
+ LFS147x: Introduction to AI/ML Toolkits with Kubeflow
+</p>
+
+
+<details><summary>Neeraj Sharma - Complete Resume</summary>
+
+[neeraj-sharma-resume.md](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj-sharma-resume.md)
+
+[neeraj-sharma-resume.pdf](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj-sharma-resume.pdf)  
+</details> 
+
+<details><summary>Earlier Career (Engineering & QA Leadership)</summary>
+
+[neeraj_sharma_resume_1995_2009.md](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj_sharma_resume_1995_2009.md)
+
+[neeraj_sharma_resume_1995_2009.pdf](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj_sharma_resume_1995_2009.pdf)
+</details> 
+
 #### Credly Badges
 <hr>
 <p align="left">
@@ -53,30 +90,6 @@ Staff / Principal-level platform engineer and architect with 20+ years of experi
     <img src="https://images.credly.com/size/680x680/images/5ee26427-f944-4182-b802-459462184c9a/image.png" alt="Credly Badge" width="72" />
   </a>
 </p>
-
-#### Certifications
-<hr>
-<p align="left">
-  <a href="https://courses.edx.org/certificates/ba3787da5b414a11986daaf945af7468" title="Linux Foundation Badge">
-    <img src="https://github.com/hardly-soft/neeraj-sharma/blob/main/ns_kf.png" alt="LFS147x" width="72" />
-  </a>
- LFS147x: Introduction to AI/ML Toolkits with Kubeflow
-</p>
-
-
-<details><summary>Neeraj Sharma - Complete Resume</summary>
-
-[neeraj-sharma-resume.md](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj-sharma-resume.md)
-
-[neeraj-sharma-resume.pdf](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj-sharma-resume.pdf)  
-</details> 
-
-<details><summary>Earlier Career (Engineering & QA Leadership)</summary>
-
-[neeraj_sharma_resume_1995_2009.md](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj_sharma_resume_1995_2009.md)
-
-[neeraj_sharma_resume_1995_2009.pdf](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj_sharma_resume_1995_2009.pdf)
-</details> 
 
 ### Contact Information
  |       |                                      |  
