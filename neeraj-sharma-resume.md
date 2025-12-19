@@ -4,11 +4,11 @@ Senior Cloud and DevSecOps Engineer | Site Reliability Engineer (SRE)
 Cloud Security, Observability, AIOps, MLOps, Cybersecurity
 
 Location: Milpitas, CA
-Work Authorization: US Citizen
-Email: mail4neeraj@gmail.com
-Phone: +1-669-241-2101
-LinkedIn Profile: https://www.linkedin.com/in/neeraj
-GitHub Portfolio: https://github.com/hardly-soft/neeraj-sharma
+<br>Work Authorization: US Citizen
+<br>Email: mail4neeraj@gmail.com
+<br>Phone: +1-669-241-2101
+<br>LinkedIn Profile: https://www.linkedin.com/in/neeraj
+<br>GitHub Portfolio: https://github.com/hardly-soft/neeraj-sharma
 
 
 PROFESSIONAL SUMMARY
