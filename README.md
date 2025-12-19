@@ -79,7 +79,7 @@ Neeraj Sharma — Cloud, Backend, DevSecOps & IoT Engineering | AI & MLOps
 
 <p align="left">
   <a href="https://courses.edx.org/certificates/ba3787da5b414a11986daaf945af7468">
-    <img src="https://images.credly.com/size/680x680/images/a32fda3d-7666-430e-8d17-b7abc4cc4207/IBM-Generative-and-Agentic-AI-Foundation.png" alt="Credly Badge" width="72" />
+    <img src="[https://images.credly.com/size/680x680/images/a32fda3d-7666-430e-8d17-b7abc4cc4207/IBM-Generative-and-Agentic-AI-Foundation.png](https://github.com/hardly-soft/neeraj-sharma/blob/main/ns_kf.png)" alt="LFS147x Introduction to AI/ML Toolkits with Kubeflow Certification" width="72" />
   </a>
 </p>
 
