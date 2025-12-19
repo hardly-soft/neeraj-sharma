@@ -1,5 +1,3 @@
-Neeraj Sharma — Cloud, Backend, DevSecOps & IoT Engineering | AI & MLOps
-
 ### Contact Information
  |       |                                      |  
 |--------|--------------------------------------|
@@ -7,8 +5,10 @@ Neeraj Sharma — Cloud, Backend, DevSecOps & IoT Engineering | AI & MLOps
 | Mobile | 669-241-2101                         |
 | Linkedin | https://www.linkedin.com/in/neeraj |
 
-#### Credly Badges
+## Neeraj Sharma — Cloud, Backend, DevSecOps & IoT Engineering | AI & MLOps
 
+#### Credly Badges
+<hr>
 <p align="left">
   <a href="https://www.credly.com/badges/cb3dfcc1-e48f-4afc-9fd8-082e7e831939" title="Credly Badge">
     <img src="https://images.credly.com/size/680x680/images/a32fda3d-7666-430e-8d17-b7abc4cc4207/IBM-Generative-and-Agentic-AI-Foundation.png" alt="Credly Badge" width="72" />
@@ -58,6 +58,15 @@ Neeraj Sharma — Cloud, Backend, DevSecOps & IoT Engineering | AI & MLOps
   </a>
 </p>
 
+#### Certifications
+<hr>
+<p align="left">
+  <a href="https://courses.edx.org/certificates/ba3787da5b414a11986daaf945af7468" title="Linux Foundation Badge">
+    <img src="https://github.com/hardly-soft/neeraj-sharma/blob/main/ns_kf.png" alt="LFS147x" width="72" />
+  </a>
+ LFS147x: Introduction to AI/ML Toolkits with Kubeflow
+</p>
+
 
 <details><summary>Neeraj Sharma - Complete Resume</summary>
 
@@ -73,15 +82,8 @@ Neeraj Sharma — Cloud, Backend, DevSecOps & IoT Engineering | AI & MLOps
 [neeraj_sharma_resume_1995_2009.pdf](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj_sharma_resume_1995_2009.pdf)
 </details> 
 
-#### Certifications
 
-[LFS147x: Introduction to AI/ML Toolkits with Kubeflow](https://courses.edx.org/certificates/ba3787da5b414a11986daaf945af7468)
 
-<p align="left">
-  <a href="https://courses.edx.org/certificates/ba3787da5b414a11986daaf945af7468">
-    <img src="[https://images.credly.com/size/680x680/images/a32fda3d-7666-430e-8d17-b7abc4cc4207/IBM-Generative-and-Agentic-AI-Foundation.png](https://github.com/hardly-soft/neeraj-sharma/blob/main/ns_kf.png)" alt="LFS147x Introduction to AI/ML Toolkits with Kubeflow Certification" height"2000" width="2000" />
-  </a>
-</p>
 
 
 
