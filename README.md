@@ -1,4 +1,4 @@
-## Neeraj Sharma GitHub Home
+Neeraj Sharma — Cloud, Backend, DevSecOps & IoT Engineering | AI & MLOps
 
 ### Contact Information
  |       |                                      |  
