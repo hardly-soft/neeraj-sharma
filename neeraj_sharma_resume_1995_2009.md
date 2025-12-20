@@ -14,7 +14,7 @@ platform, cloud, security, and IoT architecture roles.
 Location: Milpitas, CA  
 Work Authorization: US Citizen  
 Email: mail4neeraj@gmail.com
-LinkedIn: https://www.linkedin.com/in/neerj  
+LinkedIn: https://www.linkedin.com/in/neeraj
 GitHub: https://github.com/neeraj-sharma-0/neeraj-sharma-0
 
 
