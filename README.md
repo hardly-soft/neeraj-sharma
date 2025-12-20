@@ -11,7 +11,7 @@ A consolidated reference for recruiters and hiring managers, spanning experience
 
 <p align="left">
   <a href="[https://courses.edx.org/certificates/ba3787da5b414a11986daaf945af7468](https://github.com/hardly-soft/agentic_ai)" title="Agentic AI Langchain">
-    <img src="https://github.com/hardly-soft/neeraj-sharma/blob/main/NS_agentic_ai.png" width="72" />
+    <img src="https://github.com/neeraj-sharma-0/neeraj-sharma-0/images/NS_agentic_ai.png" width="72" />
   </a>
  Agentic AI: Using Python Langchain, Langgraph, Langsmith
 </p>
@@ -20,7 +20,7 @@ A consolidated reference for recruiters and hiring managers, spanning experience
 <hr>
 <p align="left">
   <a href="https://courses.edx.org/certificates/ba3787da5b414a11986daaf945af7468" title="Linux Foundation Badge">
-    <img src="https://github.com/hardly-soft/neeraj-sharma/blob/main/ns_kf.png" alt="LFS147x" width="72" />
+    <img src="[https://github.com/hardly-soft/neeraj-sharma/blob/main/](https://github.com/neeraj-sharma-0/neeraj-sharma-0/images)ns_kf.png" alt="LFS147x" width="72" />
   </a>
  LFS147x: Introduction to AI/ML Toolkits with Kubeflow
 </p>
