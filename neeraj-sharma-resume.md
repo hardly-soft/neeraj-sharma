@@ -79,7 +79,7 @@ WORK EXPERIENCE
 
 IBM
 Senior Backend Engineer (DevSecOps and Site Reliability Engineering)
-April 2021 – April 2025
+Apr 2021 – Apr 2025
 
 - Owned scalable backend services for cloud-native platforms supporting telemetry-driven
   monitoring and automated remediation.
@@ -91,7 +91,7 @@ April 2021 – April 2025
 
 Exabeam
 Senior Software Quality Engineer
-August 2019 – March 2021
+Aug 2019 – Mar 2021
 
 - Led quality engineering for security analytics platforms processing high-volume
   event and behavioral data.
@@ -102,7 +102,7 @@ August 2019 – March 2021
 
 Oracle
 Principal Software Engineer
-May 2018 – July 2019
+May 2018 – Jul 2019
 
 - Directed architecture and deployment of multi-tenant leaf-spine networks
   across more than 20 global data centers.
@@ -113,7 +113,7 @@ May 2018 – July 2019
 
 Light
 Senior Software QA Engineer
-June 2017 – April 2018
+Jun 2017 – Apr 2018
 
 - Built automated test frameworks for embedded camera firmware and Android-based
   imaging platforms.
@@ -123,7 +123,7 @@ June 2017 – April 2018
 
 Silver Spring Networks
 Senior Software Development Engineer in Test (SDET)
-November 2012 – May 2017
+Nov 2012 – May 2017
 
 - Validated large-scale IoT platforms supporting smart grid deployments
   across millions of field devices.
@@ -134,7 +134,7 @@ November 2012 – May 2017
 
 Redwood Systems
 Senior Software Development Engineer in Test (SDET)
-January 2011 – October 2012
+Jan 2011 – Oct 2012
 
 - Led system integration and automation for sensor-driven smart lighting platforms
   used in green building environments.
@@ -142,7 +142,7 @@ January 2011 – October 2012
 
 CDNetworks
 Senior QA Manager
-August 2009 – December 2010
+Aug 2009 – Dec 2010
 
 - Owned global QA strategy for distributed CDN infrastructure, validating performance,
   reliability, and data flow at scale.
@@ -150,7 +150,7 @@ August 2009 – December 2010
 
 Vusion
 Senior QA Manager
-April 2007 – July 2009
+Apr 2007 – Jul 2009
 
 - Led QA delivery for cloud-hosted high-definition video streaming platforms
   serving enterprise media customers.
@@ -158,7 +158,7 @@ April 2007 – July 2009
 
 HP
 Senior Software Engineer
-August 2006 – March 2007
+Aug 2006 – Mar 2007
 
 - Validated enterprise application lifecycle management platforms supporting
   standards-compliant database migration and archival workflows.
@@ -166,7 +166,7 @@ August 2006 – March 2007
 
 Motorola PCS
 Senior Software Engineer
-May 2003 – July 2006
+May 2003 – Jul 2006
 
 - Delivered end-to-end testing and automation for J2ME and Linux mobile platforms
   using Six Sigma quality practices.
@@ -174,7 +174,7 @@ May 2003 – July 2006
 
 Brocade Communications Systems
 Senior QA Lead
-April 2002 – April 2003
+Apr 2002 – Apr 2003
 
 - Led functional and performance testing for storage area network
   and enterprise networking platforms.
@@ -182,7 +182,7 @@ April 2002 – April 2003
 
 Xoriant
 Senior Technical Consultant
-June 1998 – March 2002
+Jun 1998 – Mar 2002
 
 - Delivered software development, quality assurance, and optical networking
   (DWDM) solutions for enterprise clients.
@@ -190,7 +190,7 @@ June 1998 – March 2002
 
 DSS Infotech Pvt. Ltd.
 Senior IT Analyst
-February 1995 – May 1998
+Feb 1995 – May 1998
 
 - Designed and delivered enterprise database architectures for industrial clients.
 
