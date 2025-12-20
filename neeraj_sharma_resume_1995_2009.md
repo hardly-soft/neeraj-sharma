@@ -13,9 +13,9 @@ platform, cloud, security, and IoT architecture roles.
 
 Location: Milpitas, CA  
 Work Authorization: US Citizen  
-Email: <your email>  
-LinkedIn: https://www.linkedin.com/in/<your-linkedin>  
-GitHub: https://github.com/hardly-soft/neeraj-sharma  
+Email: mail4neeraj@gmail.com
+LinkedIn: https://www.linkedin.com/in/neerj  
+GitHub: https://github.com/neeraj-sharma-0/neeraj-sharma-0
 
 
 ## Vusion (Senior QA Manager)
