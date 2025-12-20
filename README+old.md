@@ -5,7 +5,9 @@ Staff / Principal-level platform engineer and architect with 20+ years of experi
 
 A consolidated reference for recruiters and hiring managers, spanning experience, technical focus, and applied work beyond a résumé.
 
+[neeraj-sharma-resume.md](https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/neeraj-sharma-resume.md)
 
+[neeraj-sharma-resume.pdf](https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/neeraj-sharma-resume.pdf)  
 
 #### Agentic AI
 
@@ -24,22 +26,7 @@ A consolidated reference for recruiters and hiring managers, spanning experience
   </a>
  LFS147x: Introduction to AI/ML Toolkits with Kubeflow
 </p>
-
-
-<details><summary>Neeraj Sharma - Complete Resume</summary>
-
-[neeraj-sharma-resume.md](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj-sharma-resume.md)
-
-[neeraj-sharma-resume.pdf](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj-sharma-resume.pdf)  
-</details> 
-
-<details><summary>Earlier Career (Engineering & QA Leadership)</summary>
-
-[neeraj_sharma_resume_1995_2009.md](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj_sharma_resume_1995_2009.md)
-
-[neeraj_sharma_resume_1995_2009.pdf](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj_sharma_resume_1995_2009.pdf)
-</details> 
-
+ 
 #### Credly Badges
 <hr>
 <p align="left">
@@ -90,6 +77,13 @@ A consolidated reference for recruiters and hiring managers, spanning experience
     <img src="https://images.credly.com/size/680x680/images/5ee26427-f944-4182-b802-459462184c9a/image.png" alt="Credly Badge" width="72" />
   </a>
 </p>
+
+<details><summary>Earlier Career (Engineering & QA Leadership)</summary>
+
+[neeraj_sharma_resume_1995_2009.md](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj_sharma_resume_1995_2009.md)
+
+[neeraj_sharma_resume_1995_2009.pdf](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj_sharma_resume_1995_2009.pdf)
+</details> 
 
 ### Contact Information
  |       |                                      |  
