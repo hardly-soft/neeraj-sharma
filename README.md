@@ -9,6 +9,8 @@ A consolidated reference for recruiters and hiring managers, spanning experience
 
 [neeraj-sharma-resume.pdf](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj-sharma-resume.pdf)  
 
+[UT Austin: PGDSBA ePortFolio](https://www.mygreatlearning.com/eportfolio/neeraj-sharma11)
+
 #### Agentic AI
 
 <p align="left">
