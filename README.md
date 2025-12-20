@@ -81,13 +81,6 @@ A consolidated reference for recruiters and hiring managers, spanning experience
   </a>
 </p>
 
-<details><summary>Earlier Career (Engineering & QA Leadership)</summary>
-
-[neeraj_sharma_resume_1995_2009.md](https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/neeraj_sharma_resume_1995_2009.md)
-
-[neeraj_sharma_resume_1995_2009.pdf](https://github.com/neeraj-sharma-0/neeraj-sharma/blob/main/neeraj_sharma_resume_1995_2009.pdf)
-</details>
-
 ### Contact Information
  |       |                                      |  
 |--------|--------------------------------------|
