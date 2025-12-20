@@ -5,12 +5,9 @@ Staff / Principal-level platform engineer and architect with 20+ years of experi
 
 A consolidated reference for recruiters and hiring managers, spanning experience, technical focus, and applied work beyond a résumé.
 
-<details><summary>Neeraj Sharma - Complete Resume</summary>
-
 [neeraj-sharma-resume.md](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj-sharma-resume.md)
 
 [neeraj-sharma-resume.pdf](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj-sharma-resume.pdf)  
-</details> 
 
 #### Agentic AI
 
