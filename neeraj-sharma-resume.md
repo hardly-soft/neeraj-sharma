@@ -15,7 +15,8 @@ LinkedIn Profile: https://www.linkedin.com/in/neeraj
 
 GitHub: https://github.com/neeraj-sharma-0/neeraj-sharma-0
 
-UT Austin: PGDSBA ePortfolio: https://www.mygreatlearning.com/eportfolio/neeraj-sharma11
+- UT Austin: 
+  - PGDSBA ePortfolio: https://www.mygreatlearning.com/eportfolio/neeraj-sharma11
 
 
 PROFESSIONAL SUMMARY
