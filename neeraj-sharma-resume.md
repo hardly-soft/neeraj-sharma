@@ -13,7 +13,7 @@ Phone: +1-669-241-2101
 
 LinkedIn Profile: https://www.linkedin.com/in/neeraj
 
-GitHub: https://github.com/hardly-soft/neeraj-sharma/blob/main/README.md
+GitHub: https://github.com/neeraj-sharma-0/neeraj-sharma-0/README.md
 
 UT Austin: PGDSBA ePortfolio: https://www.mygreatlearning.com/eportfolio/neeraj-sharma11
 
