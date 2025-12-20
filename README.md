@@ -14,7 +14,7 @@ A consolidated reference for recruiters and hiring managers, spanning experience
 #### Agentic AI
 
 <p align="left">
-  <a href="[https://courses.edx.org/certificates/ba3787da5b414a11986daaf945af7468](https://github.com/hardly-soft/agentic_ai)" title="Agentic AI Langchain">
+  <a href="https://github.com/neeraj-sharma-0/agentic_ai" title="Agentic AI Langchain">
     <img src="https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/images/NS_agentic_ai.png" width="72" />
   </a>
  Agentic AI: Using Python Langchain, Langgraph, Langsmith
