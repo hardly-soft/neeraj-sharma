@@ -6,6 +6,7 @@ Staff / Principal-level platform engineer and architect with 25+ years of experi
 
 This page serves as a consolidated reference for recruiters and hiring managers, spanning experience, technical focus, and applied work beyond a résumé.
 
+#### Complete Resume
 [neeraj-sharma-resume.md](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj-sharma-resume.md)
 
 [neeraj-sharma-resume.pdf](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj-sharma-resume.pdf)  
