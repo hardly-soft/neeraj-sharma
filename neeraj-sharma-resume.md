@@ -21,9 +21,7 @@ GitHub: https://github.com/neeraj-sharma-0/neeraj-sharma-0
 
 PROFESSIONAL SUMMARY
 
-Senior Cloud, DevSecOps, and Site Reliability Engineer with over 20 years of experience
-designing, securing, and operating enterprise-scale distributed systems across cloud,
-security, observability, and data-driven platforms.
+Staff / Principal-level platform engineer and architect with 25+ years of experience building and operating secure, large-scale cloud, distributed, and IoT platforms across enterprise and industrial environments. I focus on designing systems where architecture, reliability, security, and data-informed (AI-assisted) decision-making intersect to deliver durable, production-grade outcomes.
 
 
 CORE SKILLS
