@@ -1,4 +1,5 @@
 # Neeraj Sharma
+
 ## Senior Cloud and DevSecOps Engineer | SRE, Cloud Security, Observability, AI/MLOps, IoT
 
 Staff / Principal-level platform engineer and architect with 25+ years of experience building and operating secure, large-scale cloud, distributed, and IoT platforms across enterprise and industrial environments. I focus on designing systems where architecture, reliability, security, and data-informed (AI-assisted) decision-making intersect to deliver durable, production-grade outcomes.
