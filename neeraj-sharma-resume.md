@@ -37,11 +37,11 @@ Containers and Orchestration:
 - Helm
 
 CI/CD and Infrastructure as Code:
-- CI/CD Pipelines
-- GitHub Actions
+- Tekton Pipelines
 - Jenkins
-- Infrastructure as Code (IaC)
+- GitHub Actions
 - Ansible Automation
+- Terraform
 
 Security and Compliance:
 - SIEM (Exabeam, QRadar)
@@ -77,7 +77,9 @@ Focus Areas:
 WORK EXPERIENCE
 
 IBM
+
 Senior Backend Engineer (DevSecOps and Site Reliability Engineering)
+
 Apr 2021 – Apr 2025
 
 - Owned scalable backend services for cloud-native platforms supporting telemetry-driven
@@ -89,7 +91,9 @@ Apr 2021 – Apr 2025
 
 
 Exabeam
+
 Senior Software Quality Engineer
+
 Aug 2019 – Mar 2021
 
 - Led quality engineering for security analytics platforms processing high-volume
