@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/images/NS_GGate_LinkedIn_Banner.png" width="100%" />
+</p>
+
 # Neeraj Sharma
 
 Senior Cloud and DevSecOps Engineer | SRE, Cloud Security, Observability, AI/MLOps, IoT
