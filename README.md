@@ -34,7 +34,7 @@ This page serves as a consolidated reference for recruiters and hiring managers,
 #### Certifications
 <hr>
 <p align="left">
-  <a href="https://courses.edx.org/certificates/ba3787da5b414a11986daaf945af7468" title="Linux Foundation Badge">
+  <a href="https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/images/ns_kf.png" title="Linux Foundation Badge">
     <img src="https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/images/ns_kf.png" alt="LFS147x" width="72" />
   </a>
  LFS147x: Introduction to AI/ML Toolkits with Kubeflow
