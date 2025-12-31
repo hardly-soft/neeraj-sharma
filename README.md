@@ -32,6 +32,8 @@ This page serves as a consolidated reference for recruiters and hiring managers,
 </p>
 
 #### Certifications
+
+A deliberately curated set of certifications validating production-facing capability across AI/MLOps platforms, cloud infrastructure, and security-by-design. Additional credentials are listed below for completeness.
 <hr>
 <p align="left">
   <a href="https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/images/ns_kf.png" title="Linux Foundation Badge">
