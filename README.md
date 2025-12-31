@@ -57,16 +57,17 @@ A deliberately curated set of certifications validating production-facing capabi
   <a href="https://www.credly.com/badges/a79bd7a5-2827-4ce3-a3ae-c2abaaf407a6" title="Credly Badge">
     <img src="https://images.credly.com/size/680x680/images/817e6df0-5259-46a8-a739-fade09ea0a1d/Trustworthy-AI-and-AI-Ethics-Foundations.png" alt="Credly Badge" width="72" />
   </a>
-  <a href="https://www.credly.com/badges/aa212634-1d5b-444f-b8db-2d6d05ab26c1" title="Credly Badge">
-    <img src="https://images.credly.com/size/680x680/images/82966826-6630-4768-80d4-6028b3fab414/image.png" alt="Credly Badge" width="72" />
+<a href="https://www.credly.com/badges/b05c7858-ae3b-4929-9db7-9d720544463d" title="Credly Badge">
+    <img src="https://images.credly.com/size/680x680/images/896fd94a-36a2-42f0-805a-bde6f9516d5a/image.png" alt="Credly Badge" width="72" />
   </a>
+
 <a href="https://www.credly.com/badges/fa2b0a84-ecec-4ba5-a6b2-fdc25e9a8c71" title="Credly Badge">
     <img src="https://images.credly.com/size/680x680/images/70aa50d8-29db-45da-9c7c-df6e436e8921/PSIRT-Responder.png" alt="Credly Badge" width="72" />
   </a>
 <details><summary>More Credly Badges</summary>
 
-<a href="https://www.credly.com/badges/b05c7858-ae3b-4929-9db7-9d720544463d" title="Credly Badge">
-    <img src="https://images.credly.com/size/680x680/images/896fd94a-36a2-42f0-805a-bde6f9516d5a/image.png" alt="Credly Badge" width="72" />
+<a href="https://www.credly.com/badges/aa212634-1d5b-444f-b8db-2d6d05ab26c1" title="Credly Badge">
+    <img src="https://images.credly.com/size/680x680/images/82966826-6630-4768-80d4-6028b3fab414/image.png" alt="Credly Badge" width="72" />
   </a>
   <a href="https://www.credly.com/badges/69c9a242-c857-4bd3-824f-a739062f9fc3" title="Credly Badge">
     <img src="https://images.credly.com/size/680x680/images/0cc4f5e5-e9b7-45f9-ad21-e5a773c298dc/blob" alt="Credly Badge" width="72" />
