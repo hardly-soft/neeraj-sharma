@@ -59,14 +59,14 @@ This page serves as a consolidated reference for recruiters and hiring managers,
   <a href="https://www.credly.com/badges/b05c7858-ae3b-4929-9db7-9d720544463d" title="Credly Badge">
     <img src="https://images.credly.com/size/680x680/images/896fd94a-36a2-42f0-805a-bde6f9516d5a/image.png" alt="Credly Badge" width="72" />
   </a>
-  
-  <a href="https://www.credly.com/badges/69c9a242-c857-4bd3-824f-a739062f9fc3" title="Credly Badge">
-    <img src="https://images.credly.com/size/680x680/images/0cc4f5e5-e9b7-45f9-ad21-e5a773c298dc/blob" alt="Credly Badge" width="72" />
-  </a>
   <a href="https://www.credly.com/badges/aa212634-1d5b-444f-b8db-2d6d05ab26c1" title="Credly Badge">
     <img src="https://images.credly.com/size/680x680/images/82966826-6630-4768-80d4-6028b3fab414/image.png" alt="Credly Badge" width="72" />
   </a>
 
+  <a href="https://www.credly.com/badges/69c9a242-c857-4bd3-824f-a739062f9fc3" title="Credly Badge">
+    <img src="https://images.credly.com/size/680x680/images/0cc4f5e5-e9b7-45f9-ad21-e5a773c298dc/blob" alt="Credly Badge" width="72" />
+  </a>
+  
   <a href="https://www.credly.com/badges/dabcfca3-08fb-46df-9227-f8d2bbfaa60d" title="Credly Badge">
     <img src="https://images.credly.com/size/680x680/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" alt="Credly Badge" width="72" />
   </a>
