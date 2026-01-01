@@ -47,7 +47,7 @@ A deliberately curated set of certifications validating production-facing capabi
 <hr>
 <p align="left">
   <a href="https://www.credly.com/badges/cb3dfcc1-e48f-4afc-9fd8-082e7e831939" title="Credly Badge">
-    <img src="https://images.credly.com/size/680x680/images/a32fda3d-7666-430e-8d17-b7abc4cc4207/IBM-Generative-and-Agentic-AI-Foundation.png" alt="Credly Badge:IBM Generative & Agentic AI Foundation" width="72" />
+    <img src="https://images.credly.com/size/680x680/images/a32fda3d-7666-430e-8d17-b7abc4cc4207/IBM-Generative-and-Agentic-AI-Foundation.png" alt="IBM Generative & Agentic AI Foundation" width="72" />
     
   </a>
   <a href="https://www.credly.com/badges/a79bd7a5-2827-4ce3-a3ae-c2abaaf407a6" title="Credly Badge">
