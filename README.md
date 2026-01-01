@@ -43,7 +43,9 @@ A deliberately curated set of certifications validating production-facing capabi
 </p>
 
 
-#### Credly Badges
+## Professional Credentials
+
+### IBM-issued Credly Badges
 ##### Hover over each badge for credential details and verification
 <hr>
 <p align="left">
@@ -67,7 +69,7 @@ A deliberately curated set of certifications validating production-facing capabi
     <img src="https://images.credly.com/size/680x680/images/896fd94a-36a2-42f0-805a-bde6f9516d5a/image.png" alt="IBM Cloud DevSecOps v1 Specialty" width="72" />
   </a>
 
-<details><summary>More Credly Badges</summary>
+<details><summary>More badges</summary>
 
 <a href="https://www.credly.com/badges/fa2b0a84-ecec-4ba5-a6b2-fdc25e9a8c71" title="Product Security Incident Response Team (PSIRT) Responder">
     <img src="https://images.credly.com/size/680x680/images/70aa50d8-29db-45da-9c7c-df6e436e8921/PSIRT-Responder.png" alt="Product Security Incident Response Team (PSIRT) Responder" width="72" />
