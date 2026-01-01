@@ -31,7 +31,7 @@ This page serves as a consolidated reference for recruiters and hiring managers,
  Agentic AI: Using Python Langchain, Langgraph, Langsmith
 </p>
 
-#### Certifications
+## Certifications
 
 A deliberately curated set of certifications validating production-facing capability across AI/MLOps platforms, cloud infrastructure, and security-by-design. Additional credentials are listed below for completeness.
 <hr>
