@@ -68,29 +68,31 @@ A deliberately curated set of certifications validating production-facing capabi
 
 <details><summary>More Credly Badges</summary>
 
-<a href="https://www.credly.com/badges/fa2b0a84-ecec-4ba5-a6b2-fdc25e9a8c71" title="Credly Badge">
-    <img src="https://images.credly.com/size/680x680/images/70aa50d8-29db-45da-9c7c-df6e436e8921/PSIRT-Responder.png" alt="Credly Badge" width="72" />
+<a href="https://www.credly.com/badges/fa2b0a84-ecec-4ba5-a6b2-fdc25e9a8c71" title="Product Security Incident Response Team (PSIRT) Responder">
+    <img src="https://images.credly.com/size/680x680/images/70aa50d8-29db-45da-9c7c-df6e436e8921/PSIRT-Responder.png" alt="Product Security Incident Response Team (PSIRT) Responder" width="72" />
   </a>
-<a href="https://www.credly.com/badges/aa212634-1d5b-444f-b8db-2d6d05ab26c1" title="Credly Badge">
-    <img src="https://images.credly.com/size/680x680/images/82966826-6630-4768-80d4-6028b3fab414/image.png" alt="Credly Badge" width="72" />
+<a href="https://www.credly.com/badges/aa212634-1d5b-444f-b8db-2d6d05ab26c1" title="Containers & Kubernetes Essentials
+">
+    <img src="https://images.credly.com/size/680x680/images/82966826-6630-4768-80d4-6028b3fab414/image.png" alt="Containers & Kubernetes Essentials
+" width="72" />
   </a>
-  <a href="https://www.credly.com/badges/69c9a242-c857-4bd3-824f-a739062f9fc3" title="Credly Badge">
-    <img src="https://images.credly.com/size/680x680/images/0cc4f5e5-e9b7-45f9-ad21-e5a773c298dc/blob" alt="Credly Badge" width="72" />
+  <a href="https://www.credly.com/badges/69c9a242-c857-4bd3-824f-a739062f9fc3" title="IBM DevSecOps Explorer - Security & Automation for DevOps">
+    <img src="https://images.credly.com/size/680x680/images/0cc4f5e5-e9b7-45f9-ad21-e5a773c298dc/blob" alt="IBM DevSecOps Explorer - Security & Automation for DevOps" width="72" />
   </a>
-  <a href="https://www.credly.com/badges/dabcfca3-08fb-46df-9227-f8d2bbfaa60d" title="Credly Badge">
-    <img src="https://images.credly.com/size/680x680/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" alt="Credly Badge" width="72" />
+  <a href="https://www.credly.com/badges/dabcfca3-08fb-46df-9227-f8d2bbfaa60d" title="Enterprise Design Thinking Practitioner">
+    <img src="https://images.credly.com/size/680x680/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" alt="Enterprise Design Thinking Practitioner" width="72" />
   </a>
-  <a href="https://www.credly.com/badges/b2ea062a-0c1f-4ea8-bd70-03d31def0353" title="Credly Badge">
-    <img src="https://images.credly.com/size/680x680/images/24eedcef-ecf7-4c79-821c-c2588d7f0e64/IBM_Certified_Technical_Advocate_-_IBM_Cloud_v3.png" alt="Credly Badge" width="72" />
+  <a href="https://www.credly.com/badges/b2ea062a-0c1f-4ea8-bd70-03d31def0353" title="IBM Certified Technical Advocate - Cloud v3">
+    <img src="https://images.credly.com/size/680x680/images/24eedcef-ecf7-4c79-821c-c2588d7f0e64/IBM_Certified_Technical_Advocate_-_IBM_Cloud_v3.png" alt="IBM Certified Technical Advocate - Cloud v3" width="72" />
   </a>
-  <a href="https://www.credly.com/badges/78d41bf1-3993-45e2-a236-39e04f782d16" title="Credly Badge">
-    <img src="https://images.credly.com/size/680x680/images/0019019c-4277-43d0-9d3b-8f33e11d8e8a/image.png" alt="Credly Badge" width="72" />
+  <a href="https://www.credly.com/badges/78d41bf1-3993-45e2-a236-39e04f782d16" title="IBM Cloud Technical Advocate Accelerator">
+    <img src="https://images.credly.com/size/680x680/images/0019019c-4277-43d0-9d3b-8f33e11d8e8a/image.png" alt="IBM Cloud Technical Advocate Accelerator" width="72" />
   </a>
-  <a href="https://www.credly.com/badges/170358f7-eed0-4b3c-8946-f987742bc56b" title="Credly Badge">
-    <img src="https://images.credly.com/size/680x680/images/7d768acf-ce3c-4a05-9778-a5013b1211c9/blob" alt="Credly Badge" width="72" />
+  <a href="https://www.credly.com/badges/170358f7-eed0-4b3c-8946-f987742bc56b" title="IBM Cloud Essentials">
+    <img src="https://images.credly.com/size/680x680/images/7d768acf-ce3c-4a05-9778-a5013b1211c9/blob" alt="IBM Cloud Essentials" width="72" />
   </a>
-  <a href="https://www.credly.com/badges/50abc70a-42d9-4a8f-871f-df835f8f3788" title="Credly Badge">
-    <img src="https://images.credly.com/size/680x680/images/5ee26427-f944-4182-b802-459462184c9a/image.png" alt="Credly Badge" width="72" />
+  <a href="https://www.credly.com/badges/50abc70a-42d9-4a8f-871f-df835f8f3788" title="Cloud Essentials">
+    <img src="https://images.credly.com/size/680x680/images/5ee26427-f944-4182-b802-459462184c9a/image.png" alt="Cloud Essentials" width="72" />
   </a>
 </p>
 
