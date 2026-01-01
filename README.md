@@ -98,7 +98,7 @@ A deliberately curated set of certifications validating production-facing capabi
 </p>
 
 </details>
-
+<hr>
 ### Contact Information
  |       |                                      |  
 |--------|--------------------------------------|
