@@ -47,29 +47,24 @@ A deliberately curated set of certifications validating production-facing capabi
 <hr>
 <p align="left">
   <a href="https://www.credly.com/badges/cb3dfcc1-e48f-4afc-9fd8-082e7e831939" title="Credly Badge">
-    <img src="https://images.credly.com/size/680x680/images/a32fda3d-7666-430e-8d17-b7abc4cc4207/IBM-Generative-and-Agentic-AI-Foundation.png" alt="Credly Badge" width="72" />
+    <img src="https://images.credly.com/size/680x680/images/a32fda3d-7666-430e-8d17-b7abc4cc4207/IBM-Generative-and-Agentic-AI-Foundation.png" alt="Credly Badge:IBM Generative & Agentic AI Foundation" width="72" />
+    
   </a>
- IBM Generative & Agentic AI Foundation
-  <br>
   <a href="https://www.credly.com/badges/a79bd7a5-2827-4ce3-a3ae-c2abaaf407a6" title="Credly Badge">
-    <img src="https://images.credly.com/size/680x680/images/817e6df0-5259-46a8-a739-fade09ea0a1d/Trustworthy-AI-and-AI-Ethics-Foundations.png" alt="Credly Badge" width="72" />
+    <img src="https://images.credly.com/size/680x680/images/817e6df0-5259-46a8-a739-fade09ea0a1d/Trustworthy-AI-and-AI-Ethics-Foundations.png" alt="Credly Badge: Trustworthy AI and AI Ethics" width="72" />    
   </a>
-  Trustworthy AI and AI Ethics
-<br>
+
 <a href="https://www.credly.com/badges/af9c110d-8796-4c82-b3e9-47262c4de1a6" title="Credly Badge">
-    <img src="https://images.credly.com/size/680x680/images/10731eac-65fb-405b-aabb-03f42031b599/Security-and-Privacy-by-Design-Foundational.png" alt="Credly Badge" width="72" />
+    <img src="https://images.credly.com/size/680x680/images/10731eac-65fb-405b-aabb-03f42031b599/Security-and-Privacy-by-Design-Foundational.png" alt="Credly Badge: Security and Privacy by Design Foundations" width="72" />
   </a>
-Security and Privacy by Design Foundations
-<br>
+
 <a href="https://www.credly.com/badges/5f0bc22e-b102-4449-a407-91af9744d352" title="Credly Badge">
-    <img src="https://images.credly.com/size/680x680/images/47a15e48-3fd7-4c36-8f7e-639a65945ad8/image.png" alt="Credly Badge" width="72" />
+    <img src="https://images.credly.com/size/680x680/images/47a15e48-3fd7-4c36-8f7e-639a65945ad8/image.png" alt="Credly Badge: IBM watsonx Essentials" width="72" />
   </a>
- IBM watsonx Essentials
-<br>  
+
 <a href="https://www.credly.com/badges/b05c7858-ae3b-4929-9db7-9d720544463d" title="Credly Badge">
-    <img src="https://images.credly.com/size/680x680/images/896fd94a-36a2-42f0-805a-bde6f9516d5a/image.png" alt="Credly Badge" width="72" />
+    <img src="https://images.credly.com/size/680x680/images/896fd94a-36a2-42f0-805a-bde6f9516d5a/image.png" alt="Credly Badge: IBM Cloud DevSecOps v1 Specialty" width="72" />
   </a>
-IBM Cloud DevSecOps v1 Specialty
 
 <details><summary>More Credly Badges</summary>
 
