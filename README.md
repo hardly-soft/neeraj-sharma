@@ -44,6 +44,7 @@ A deliberately curated set of certifications validating production-facing capabi
 
 
 #### Credly Badges
+##### Hover over the image to view the badge title
 <hr>
 <p align="left">
   <a href="https://www.credly.com/badges/cb3dfcc1-e48f-4afc-9fd8-082e7e831939" title="IBM Generative & Agentic AI Foundation">
