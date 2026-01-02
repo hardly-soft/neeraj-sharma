@@ -22,31 +22,35 @@ This page serves as a consolidated reference for recruiters and hiring managers,
 #### ePortfolios:
 [UT Austin: PGDSBA ePortFolio](https://www.mygreatlearning.com/eportfolio/neeraj-sharma11)
 
+<br>
+
+## Professional Certifications & Credentials
+
+A deliberately curated set of certifications and credentials validating production-facing capability across AI/MLOps platforms, cloud infrastructure, and security-by-design. Additional credentials are listed below for completeness.
+<br>
+<hr>
+
+**Hover over each badge for credential details and verification**
+
+<hr>
+
 #### Agentic AI
 
 <p align="left">
-  <a href="https://github.com/neeraj-sharma-0/agentic_ai" title="Agentic AI Langchain">
+  <a href="https://github.com/neeraj-sharma-0/agentic_ai" title="Agentic AI: Using Python Langchain, Langgraph, Langsmith">
     <img src="https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/images/NS_agentic_ai.png" width="72" />
   </a>
- Agentic AI: Using Python Langchain, Langgraph, Langsmith
-</p>
+ 
+### Kubeflow
 
-## Certifications
-
-A deliberately curated set of certifications validating production-facing capability across AI/MLOps platforms, cloud infrastructure, and security-by-design. Additional credentials are listed below for completeness.
-<hr>
 <p align="left">
-  <a href="https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/images/ns_kf.png" title="Linux Foundation Badge">
+  <a href="https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/images/ns_kf.png" title="LFS147x: Introduction to AI/ML Toolkits with Kubeflow">
     <img src="https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/images/ns_kf.png" alt="LFS147x" width="72" />
   </a>
- LFS147x: Introduction to AI/ML Toolkits with Kubeflow
-</p>
-
-
-## Professional Credentials
+ 
+<br>
 
 ### IBM-issued Credly Badges
-##### Hover over each badge for credential details and verification
 <hr>
 <p align="left">
   <a href="https://www.credly.com/badges/cb3dfcc1-e48f-4afc-9fd8-082e7e831939" title="IBM Generative & Agentic AI Foundations">
