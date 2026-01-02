@@ -12,7 +12,7 @@ This page serves as a consolidated reference for recruiters and hiring managers,
 
 #### Experience Snapshot
 
-[Neeraj_Sharma_Experience_Snapshot.pdf](https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/Neeraj_Sharma_Experience_Snapshot.pdf)
+[Neeraj_Sharma_Experience_Snapshot.pdf](https://github.com/neeraj-sharma-0/neeraj-sharma-0/blob/main/Neeraj_Sharma_Experience_Snapshot.pdf)ƒfiybdRUI
 
 #### Complete Resume
 [neeraj-sharma-resume.md](https://github.com/hardly-soft/neeraj-sharma/blob/main/neeraj-sharma-resume.md)
@@ -49,7 +49,7 @@ A deliberately curated set of certifications validating production-facing capabi
 ##### Hover over each badge for credential details and verification
 <hr>
 <p align="left">
-  <a href="https://www.credly.com/badges/cb3dfcc1-e48f-4afc-9fd8-082e7e831939" title="IBM Generative & Agentic AI Foundation">
+  <a href="https://www.credly.com/badges/cb3dfcc1-e48f-4afc-9fd8-082e7e831939" title="IBM Generative & Agentic AI FoundationS">
     <img src="https://images.credly.com/size/680x680/images/a32fda3d-7666-430e-8d17-b7abc4cc4207/IBM-Generative-and-Agentic-AI-Foundation.png" alt="IBM Generative & Agentic AI Foundation" width="72" />
     
   </a>
